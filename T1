@@ -1,4 +1,4 @@
-for test v5.7
+for test v5.8
 
 
 
@@ -90,7 +90,7 @@ export NULINK_KEYSTORE_PASSWORD=13mj87g
 
 به جای ایکس ها اون پسورد که بالاتر وارد کردید و گفتم در ادامه لازمون میشه رو وارد کنید
 
-export NULINK_OPERATOR_ETH_PASSWORD=paA100|M
+export NULINK_OPERATOR_ETH_PASSWORD=paA10ok8M
 
 در اینجا هم به جای ایکس ها اون پسوردی که بالاتر دادید رو دوباره وارد کنید
 
@@ -106,4 +106,4 @@ nulink/nulink nulink ursula init \
 --payment-provider https://data-seed-prebsc-2-s2.binance.org:8545/ \
 --payment-network bsc_testnet \
 --operator-address yyyyyyyyyyyyyyy \
---max-gas-price 100
+--max-gas-price 105
