@@ -1,4 +1,4 @@
-for test v6.2
+for test v6.5
 
 
 
@@ -86,11 +86,11 @@ python -c "import nulink"
 
 nulink --help
 
-export NULINK_KEYSTORE_PASSWORD=13mj87g
+export NULINK_KEYSTORE_PASSWORD=13mhg7g
 
 به جای ایکس ها اون پسورد که بالاتر وارد کردید و گفتم در ادامه لازمون میشه رو وارد کنید
 
-export NULINK_OPERATOR_ETH_PASSWORD=paA10oknb6
+export NULINK_OPERATOR_ETH_PASSWORD=@fbh56B
 
 در اینجا هم به جای ایکس ها اون پسوردی که بالاتر دادید رو دوباره وارد کنید
 
