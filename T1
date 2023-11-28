@@ -1,4 +1,4 @@
-for test v6.9
+for test v7
 
 
 
@@ -86,7 +86,7 @@ python -c "import nulink"
 
 nulink --help
 
-export NULINK_KEYSTORE_PASSWORD=H09oikfvd
+export NULINK_KEYSTORE_PASSWORD=H09olovd
 
 به جای ایکس ها اون پسورد که بالاتر وارد کردید و گفتم در ادامه لازمون میشه رو وارد کنید
 
@@ -106,4 +106,4 @@ nulink/nulink nulink ursula init \
 --payment-provider https://data-seed-prebsc-2-s2.binance.org:8545/ \
 --payment-network bsc_testnet \
 --operator-address yyyyyyyyyyyyyyy \
---max-gas-price 105
+--max-gas-price 100
