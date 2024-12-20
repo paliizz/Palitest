@@ -1,4 +1,4 @@
-for test v18.00
+for test v18.32
 
 
 
@@ -90,7 +90,7 @@ export NULINK_KEYSTORE_PASSWORD=Mn7g5f7
 
 به جای ایکس ها اون پسورد که بالاتر وارد کردید و گفتم در ادامه لازمون میشه رو وارد کنید
 
-export NULINK_OPERATOR_ETH_PASSWORD=Lh7irjJ98
+export NULINK_OPERATOR_ETH_PASSWORD=Lh7i7jJ98
 
 در اینجا هم به جای ایکس ها اون پسوردی که بالاتر دادید رو دوباره وارد کنید
 
